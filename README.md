@@ -67,4 +67,4 @@ The analysis provides valuable insights into product distribution, pricing behav
 
 ---
 
-## 📁 Project Structure
+## 📁 Project File:https://github.com/pallavisandilya4-hash/Big_Basket_EDA/blob/main/Bigbasket_EDA.ipynb
