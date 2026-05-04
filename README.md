@@ -1,12 +1,12 @@
-# 🛒 BigBasket Product Analysis (EDA)
+#  BigBasket Product Analysis (EDA)
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on the BigBasket dataset to derive meaningful insights about products, categories, pricing, and customer ratings.
 The goal is to understand product distribution, identify trends, and generate business insights that can help in better decision-making.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze product categories and their distribution
 - Understand pricing patterns and discounts
 - Study customer ratings and their spread
@@ -15,7 +15,7 @@ The goal is to understand product distribution, identify trends, and generate bu
 
 ---
 
-## 📊 Dataset
+## Dataset
 - Source: BigBasket dataset
 - Contains information such as:
   - Product Name
@@ -26,7 +26,7 @@ The goal is to understand product distribution, identify trends, and generate bu
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -36,7 +36,7 @@ The goal is to understand product distribution, identify trends, and generate bu
 
 ---
 
-## 📈 Key Analysis Performed
+## Key Analysis Performed
 - Distribution of product categories
 - Price vs Discount analysis
 - Rating distribution analysis
@@ -46,7 +46,7 @@ The goal is to understand product distribution, identify trends, and generate bu
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - Certain categories dominate the product listings
 - Discounted prices show significant variation across categories
 - Most products fall within a specific rating range
@@ -54,7 +54,7 @@ The goal is to understand product distribution, identify trends, and generate bu
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 - Focus on high-demand categories to increase sales
 - Optimize pricing strategies for competitive advantage
 - Improve low-rated products to enhance customer satisfaction
@@ -62,9 +62,9 @@ The goal is to understand product distribution, identify trends, and generate bu
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 The analysis provides valuable insights into product distribution, pricing behavior, and customer preferences, which can help businesses make data-driven decisions.
 
 ---
 
-## 📁 Project File:https://github.com/pallavisandilya4-hash/Big_Basket_EDA/blob/main/Bigbasket_EDA.ipynb
+## Project File:https://github.com/pallavisandilya4-hash/Big_Basket_EDA/blob/main/Bigbasket_EDA.ipynb
